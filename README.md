@@ -8,7 +8,7 @@ This is a fun little tic tac toe game where each player each choose their emojis
 
 ### How to play?
 * Download this repo into your local machine
-* Open this ipython notebook in jupyter or vscode
+* Open this 'Tic Tac Toe.ipynb' ipython notebook in jupyter or vscode
 * Run all cells
 * Enjoy
 

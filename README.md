@@ -1,5 +1,5 @@
 # TicTacToe-with-emojis 😈😈😈
-This is a fun little tic tac toe game where each player each choose their emojis as tick marker and play the game 
+This is a fun little tic tac toe game where each player choose their emojis as tick marker and play the game 
 
 # Emojis to choose from
 
